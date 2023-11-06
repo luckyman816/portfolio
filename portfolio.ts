@@ -298,19 +298,19 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Hanzla Tauqeer',
+  title: 'Masahiro Yamada',
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
+  author: 'Masahiro Yamada',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  url: 'https://portofolio-nu-mocha.vercel.app/',
   keywords: [
     'Hanzla',
-    'Hanzla Tauqeer',
-    '@1hanzla100',
-    '1hanzla100',
+    'Masahiro Yamada',
+    '@1masahiro100',
+    '1masahiro100',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Masahiro Portfolio ',
+    'Masahiro Yamada Portfolio',
   ],
 };
