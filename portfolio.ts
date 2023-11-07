@@ -302,7 +302,7 @@ export const seoData: SEODataType = {
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Masahiro Yamada',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
+  image: '',
   url: 'https://portofolio-nu-mocha.vercel.app/',
   keywords: [
     'Hanzla',
