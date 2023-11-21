@@ -294,7 +294,7 @@ export const feedbacks: FeedbackType[] = [
   {
     name: 'Ron Currie',
     feedback:
-      'John was an excellent developer to work with. He communicated effectively, managed his time well, and delivered high-quality work on schedule. His technical skills were impressive, and he was able to solve complex problems with ease. John was also responsive to feedback and made sure to address any concerns we had. We would definitely recommend him for future projects..',
+      'Michael was an excellent developer to work with. He communicated effectively, managed his time well, and delivered high-quality work on schedule. His technical skills were impressive, and he was able to solve complex problems with ease. John was also responsive to feedback and made sure to address any concerns we had. We would definitely recommend him for future projects..',
   },
 ];
 
