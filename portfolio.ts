@@ -289,7 +289,7 @@ export const feedbacks: FeedbackType[] = [
   {
     name: 'Yashwant Singh',
     feedback:
-      'Amazing work and excellent team player. Hafiz continued to support me after the first phase of the project was over. He has very strong knowledge on WordPress and UI design. You find very few WordPress professionals who can design well and implement the design in WordPress with minimal plugins. I will hire him again. A++++',
+      'Amazing work and excellent team player. Michael continued to support me after the first phase of the project was over. He has very strong knowledge on WordPress and UI design. You find very few WordPress professionals who can design well and implement the design in WordPress with minimal plugins. I will hire him again. A++++',
   },
   {
     name: 'Ron Currie',
