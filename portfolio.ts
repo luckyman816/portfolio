@@ -269,9 +269,9 @@ export const projects: ProjectType[] = [
     link: 'https://transloadit.com',
   },
   {
-    name: 'Code Mode Website',
-    desc: 'Skills for this website: PHP Website Design  Graphic Design HTML Figma',
-    link: 'https://codemode.us/',
+    name: 'Blundstone website(Australia)',
+    desc: '',
+    link: 'https://www.blundstone.com.au/',
   },
   {
     name: 'Blockchain experience',
