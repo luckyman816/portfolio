@@ -24,10 +24,7 @@ const GithubProfileCard = ({bio }: GithubUserType) => {
                 ALL
               </p>
               <p className="text-white mt-3">{bio}</p>
-              <div className="my-3 icon-shape bg-gradient-white shadow rounded text-info">
-                <i className="ni ni-pin-3 text-info mr-2" />
-                Tokyo Japan
-              </div>
+              
               <SocialLinks />
             </Col>
           </Row>
