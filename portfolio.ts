@@ -287,14 +287,14 @@ export const projects: ProjectType[] = [
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: 'John Smith',
+    name: 'Yashwant Singh',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'Amazing work and excellent team player. Hafiz continued to support me after the first phase of the project was over. He has very strong knowledge on WordPress and UI design. You find very few WordPress professionals who can design well and implement the design in WordPress with minimal plugins. I will hire him again. A++++',
   },
   {
-    name: 'John Smith',
+    name: 'Ron Currie',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'John was an excellent developer to work with. He communicated effectively, managed his time well, and delivered high-quality work on schedule. His technical skills were impressive, and he was able to solve complex problems with ease. John was also responsive to feedback and made sure to address any concerns we had. We would definitely recommend him for future projects..',
   },
 ];
 
